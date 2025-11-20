@@ -9,6 +9,7 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Enum.ВидыДоговоровКонтрагентов</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБотуДляОтправки</content>
   <subsystems>ОбслуживаниеКлиентов</subsystems>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
