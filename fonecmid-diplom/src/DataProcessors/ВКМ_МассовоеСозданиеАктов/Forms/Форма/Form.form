@@ -11,6 +11,10 @@
     <dataPath xsi:type="form:DataPath">
       <segments>Объект.ПериодДляУказанияМесяца</segments>
     </dataPath>
+    <handlers>
+      <event>OnChange</event>
+      <name>ПериодДляУказанияМесяцаПриИзменении</name>
+    </handlers>
     <extendedTooltip>
       <name>ПериодДляУказанияМесяцаРасширеннаяПодсказка</name>
       <id>3</id>

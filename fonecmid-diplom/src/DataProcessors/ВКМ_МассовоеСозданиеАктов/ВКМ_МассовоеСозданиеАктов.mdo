@@ -23,6 +23,14 @@
         <dateFractions>Date</dateFractions>
       </dateQualifiers>
     </type>
+    <format>
+      <key>ru</key>
+      <value>ДФ=dd.MM.yyyy</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>ДФ=dd.MM.yyyy</value>
+    </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
